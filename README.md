@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ShadowFox Internship – AI/ML Projects
  
 Welcome to my internship project repository for the ShadowFox AI/ML Internship.  
@@ -12,3 +13,7 @@ The focus is on:
 2) Applying core ML concepts like preprocessing, model evaluation, and deployment
 3) Creating interactive apps (like using Streamlit)
 4) Documenting everything in GitHub and showcasing Proof of Work (PoW) on LinkedIn
+=======
+# Shadow-fox
+Shadow Fox tasks
+>>>>>>> 0006c967b2ee177d92a46eb7e079707f5ebaf545
